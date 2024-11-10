@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+        <link rel="stylesheet" href="D:\9Dragon Site\main code.css">
+    </head>
+
+    <body>
+
+        <header>
+            
+            <img src="D:\9Dragon Site\dragon 01.jpg" alt="9Dragon">
+
+            <div class="topnav">
+                <a class="active" href="D:\9Dragon Site\main code.html">HOME</a>
+                <a href="D:\9Dragon Site\lyrics-collection.html">LYRICS Collection</a>
+                <a href="D:\9Dragon Site\music-collection.html">MUSIC Collection</a>
+                <a href="D:\9Dragon Site\ebooks-collection.html">E-Books Collection</a>
+                <a href="D:\9Dragon Site\makemoney.html">FREE CRYPTO</a>
+            </div>
+
+        </header>
+
+        <main>
+
+            <section id="">
+
+            </section>
+
+            <section id="">
+
+            </section>
+
+        </main>
+
+        <footer>
+
+            <div class="footer">
+            
+            </div>
+
+        </footer>
+
+    </body>
+
+</html>
